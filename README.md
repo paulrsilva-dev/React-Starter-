@@ -1,19 +1,10 @@
 # React Starter Files
 
-<p align="center">
-  <a href="https://nodei.co/npm/rsf-cli/"><img src="https://nodei.co/npm/rsf-cli.png" alt="npm install info" /></a>
-</p>
-
-Everytime I created a React app, the first thing I did was setup the project by adding all the routes and pages, so that development and collaboration becomes easier, and it was a repetitive process. So I decided to simplify it.
-
 React starter files is a command line utility that allows you to initialize your react app with your preferred components before you begin development.
 
 ![rsf-demo](https://user-images.githubusercontent.com/51489449/137424766-ec668c68-1699-4d40-ac29-932c8d77ba48.gif)
 
-
 ## Install it
-
-The utility is available as a npm package available [here](https://www.npmjs.com/package/rsf-cli). 
 ```bash
 npm install -g rsf-cli
 ```
@@ -75,4 +66,4 @@ $ rsf
 If you know NodeJs and the basics of how react works, you should be good to go!
 
 ## Maintainer
-Avinash V K  -  avinash2000vk@gmail.com
+Ruslan K. -  ruslankozubovskyi@gmail.com
